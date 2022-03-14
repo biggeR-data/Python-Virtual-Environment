@@ -27,6 +27,8 @@ virtualenv -p python3.7 venv
 >
 > Alternatively execute the *Activate.ps1* file found at *venv/Scripts/Activate.ps1*.
 
+> errors with PS: https://stackoverflow.com/a/67420296 (normal settings.json)
+
 > Your Virtual Environment should be activated. You can see this by checking whether **(venv)** stands before every line in your Terminal.
 
 > Now you can install modules and libraries only for your Virtual Environment.
